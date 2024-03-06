@@ -1,0 +1,23 @@
+{
+    "fonts": {
+        "base_text": {
+            "filename": "Inconsolata/Inconsolata-Regular.ttf",
+            "size": 16
+        }
+    },
+    "character_creators": [
+        {
+            "name": "adult_character",
+            "directory": "adult_character",
+            "layers": [
+                "Bodies",
+                "Eyes",
+                "Outfits",
+                "Hairstyles",
+                "Accessories",
+                "Books",
+                "Smartphones"
+            ]
+        }
+    ]
+}
